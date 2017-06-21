@@ -22,6 +22,8 @@
     [self.view addSubview:view1];
     
     NSLog(@"hhhhhhhhhhhh");
+    //////
+    
 }
 
 
