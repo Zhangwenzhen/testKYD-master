@@ -23,6 +23,7 @@
     
     NSLog(@"hhhhhhhhhhhh");
     //////
+    NSLog(@"世界和平");
     
 }
 
